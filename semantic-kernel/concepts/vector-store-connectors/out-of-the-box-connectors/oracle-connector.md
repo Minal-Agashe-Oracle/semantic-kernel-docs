@@ -1,3 +1,13 @@
+---
+title: Using the Semantic Kernel Oracle Database Vector Store connector (Preview)
+description: Contains information on how to use a Semantic Kernel Vector store connector to access and manipulate data in Oracle Database.
+zone_pivot_groups: programming-languages
+author: minal-agashe-oracle
+ms.topic: conceptual
+ms.author: 
+ms.date: 08/14/2025
+ms.service: semantic-kernel
+---
 # Using the Oracle Database Vector Store connector (Preview)
 
 ::: zone pivot="programming-language-csharp"
