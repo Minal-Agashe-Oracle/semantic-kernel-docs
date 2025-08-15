@@ -49,7 +49,7 @@ The Oracle Database Vector Store Connector can be used to access and manage data
 | IsFullTextSearchable supported?          | No                                                                                                                                                                            |
 | StorageName supported?                | Yes                                                                                              |
 | HybridSearch supported?               | No                                                                                                                                                                         |
-| Restricted at least one vector                | Yes    |
+| Restricted at least one vector                | No    |
 | Allow multiple primary keys               | No |
 
 Vector data searches require Oracle Database 23ai. All other Oracle connector features are available using Oracle Database 19c or higher.
